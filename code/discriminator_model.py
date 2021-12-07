@@ -40,7 +40,7 @@ class Discriminator(nn.Module):
     def forward(self, x):
         x = self.initial(x)
         return torch.sigmoid(self.model(x))
-
+"""
 def test():
     x = torch.randn((5, 3, 256, 256))
     model = Discriminator(in_channels=3)
@@ -50,3 +50,4 @@ def test():
 
 if __name__ == "__main__":
     test()
+"""
