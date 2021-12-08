@@ -4,26 +4,26 @@ Reimplementation of CycleGAN in Pytorch.
 
 ## Results:
 
- |Convert apple to orange:|
+|Convert apple to orange:|
 |:---:|
- |![](results/apple2orange.png)|
+|![](results/apple2orange.png)|
 |:---:|
- |Convert orange to apple:|
+|Convert orange to apple:|
 |:---:|
- |![](results/orange2apple.png)|
+|![](results/orange2apple.png)|
 |:---:|
- |Convert horse to zebra:|
+|Convert horse to zebra:|
 |:---:|
- |![](results/horse2zebra.png)|
+|![](results/horse2zebra.png)|
+|:---:| 
+|Convert zebra to horse:|
 |:---:|
- |Convert zebra to horse:|
+|![](results/zebra2apple.png)|
 |:---:|
- |![](results/zebra2apple.png)|
+|Convert photo to painting|
 |:---:|
- |Convert photo to painting|
+|![](results/photo2painting.png)|
 |:---:|
- |![](results/photo2painting.png)|
+|Convert painting to photo|
 |:---:|
- |Convert painting to photo|
-|:---:|
- |![](results/painting2photo.png)|
+|![](results/painting2photo.png)|
