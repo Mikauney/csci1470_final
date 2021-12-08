@@ -18,7 +18,7 @@ Reimplementation of CycleGAN in Pytorch.
 |:---:| 
 |Convert zebra to horse:|
 |:---:|
-|![](results/zebra2apple.png)|
+|![](results/zebra2horse.png)|
 |:---:|
 |Convert photo to painting|
 |:---:|
